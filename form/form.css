@@ -1,0 +1,76 @@
+*{
+    margin: 0%;
+}
+div{
+    
+    background-color: #f1f7f15d;
+}
+form{
+    margin: 5px;
+    border: 2px black solid;
+}
+div form h2{
+    margin-left: 30px;
+    text-align: left;
+}
+.inner{
+    margin-left: 35px;
+
+}
+.input,select{
+   
+    width: 220px;
+}
+.button {
+    background-color: black; /* black */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    font-size: 16px;
+  }
+img{
+    height: 13px;
+    width: 18px;
+}
+
+div form .inner label{
+    width: 180px;
+    display: inline-table;
+} 
+#f1{
+    width: 200px;
+}
+.dob{
+    width: 70px;
+}
+.len{
+    width: 90px;
+}
+.radio{
+    width: 59px;
+}
+div form .inner .radio{
+    width: 15px;
+}
+#smail {
+    font-size: 12px;
+    margin-left: 210px;
+
+}
+#spass {
+    font-size: 12px;
+    margin-left: 200px;
+}
+.pspan {
+    margin-left: 185px;
+    font-size: 10px;
+} 
+h2 {
+    margin-top: 10px;
+
+}
